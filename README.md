@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Tanisha-creator.
 - 👀 I’m interested in technologies and development.
-- 🌱 I’m currently learning javascript and new tech stack.
-- 💞️ I’m looking to collaborate on new beginner-friendly projects.
+- 🌱 I’m currently learning javascript, backend and new tech stack.
+- 💞️ I’m looking to collaborate on amazing real world projects.
