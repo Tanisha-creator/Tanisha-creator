@@ -4,3 +4,4 @@
 - 💞️ I’m looking to collaborate on amazing real world projects.
 
 [![@tanishakindo's Holopin board](https://holopin.io/api/user/board?user=tanishakindo)](https://holopin.io/@tanishakindo)
+[![@tanishakindo's Holopin board](https://holopin.io/api/user/board?user=tanishakindo)](https://holopin.io/@tanishakindo)
